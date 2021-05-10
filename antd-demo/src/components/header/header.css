@@ -1,0 +1,28 @@
+.header{
+    height: 80px;
+    line-height: 40px;
+    position: relative;
+}
+h3{
+    height: 40px;
+    margin: 0;
+}
+.header>h3>p{
+    width: 55%;
+    float: left;
+    text-align: center;
+    height: 40px;
+    margin: 0;
+}
+.header>h3>h5{
+    width: 45%;
+    float: right;
+    height: 40px;
+    margin: 0;
+}
+h1{
+    height: 40px;
+    margin: 0;
+    padding-left: 30px;
+    position: relative;
+}
